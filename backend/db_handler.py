@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 cnx = cn.connect(
     host="localhost",
     user="root",
-    password="my04sql05jiya#sinha",
+    password="password",
     database="bakery_db"
 )
 
